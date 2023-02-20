@@ -1,7 +1,7 @@
 # Data Strucutre 資料結構
 ## 目錄
-> ### 課程介紹
-> 
+> #### 課程介紹
+> #### 課程ppt
 ## 課程介紹
 ### 使用軟體
  - [GitHub](https://github.com/41071119H-Irene/DS)
