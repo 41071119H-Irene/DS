@@ -16,6 +16,7 @@
 ##### 使用軟體
  - [GitHub](https://github.com/41071119H-Irene/DS)
  - [LeetCode](https://leetcode.com/41071119H-Irene/)
+ - VS Code
 ## 🙌作業連結
 ## 📽️專題連結
 
