@@ -9,7 +9,7 @@
 + [**課程筆記**](https://github.com/41071119H-Irene/DS#pencil%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98)
 + [**作業連結**](https://github.com/41071119H-Irene/DS#%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90)
 + [**專題連結**](https://github.com/41071119H-Irene/DS#%EF%B8%8F%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90)
-+ [**課程簡報**](https://github.com/41071119H-Irene/DS/edit/main/README.md#%E8%AA%B2%E7%A8%8B%E7%B0%A1%E5%A0%B1)
++ [**課程簡報**](https://github.com/41071119H-Irene/DS#%E8%AA%B2%E7%A8%8B%E7%B0%A1%E5%A0%B1)
 
 ## :pencil:課程筆記
 ### 課程介紹
