@@ -17,6 +17,10 @@
  - [GitHub](https://github.com/41071119H-Irene/DS)
  - [LeetCode](https://leetcode.com/41071119H-Irene/)
  - VS Code
+##### 課程排程
+![image](https://user-images.githubusercontent.com/112916890/220555431-7cded05b-784b-42c2-8b00-fe04905ec770.png)
+![image](https://user-images.githubusercontent.com/112916890/220555459-7b01feab-c59b-42e9-97ba-55adb98560bd.png)
+
 ## 🙌作業連結
 ## 📽️專題連結
 
