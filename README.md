@@ -27,3 +27,4 @@
 
 ## 🫠課程簡報
 > #### [week 1 Introduction](https://docs.google.com/presentation/d/e/2PACX-1vSoZaHMPw2fKtXOAC3GyKJgpRlZn2a_adjEIOmmTTKR5vBXZlzoZ0i2y8c2yZLYgRImehD1HIHJLaV6/pub?start=false&loop=false&delayms=3000&slide=id.p)
+> #### [week 2 Leetcode 75](https://docs.google.com/presentation/d/e/2PACX-1vT7p0-PcgEIj2Ac7NuCdqHGNXNnwadoAy7CWhhNTJWm5OzUdQEekxSEb9_ZTpo2ubNgfETSUYX_tuC5/pub?start=false&loop=false&delayms=3000&slide=id.p)
