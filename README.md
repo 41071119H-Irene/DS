@@ -22,6 +22,7 @@
 ![image](https://user-images.githubusercontent.com/112916890/220555459-7b01feab-c59b-42e9-97ba-55adb98560bd.png)
 
 ## 🙌作業連結
+> #### [作業一- Prefix Sum & String]()
 ## 📽️專題連結
 
 
