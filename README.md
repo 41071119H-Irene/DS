@@ -23,6 +23,7 @@
 
 ## 🙌作業連結
 > #### [作業一- Prefix Sum & String](https://youtu.be/Trab9M8aCMY)
+> #### [作業二- Greedy & Tree](https://youtu.be/pItojJPBois)
 ## 📽️專題連結
 
 
