@@ -22,9 +22,12 @@
 ![image](https://user-images.githubusercontent.com/112916890/220555459-7b01feab-c59b-42e9-97ba-55adb98560bd.png)
 
 ## 🙌作業連結
+> #### [作業一- Prefix Sum & String](https://youtu.be/Trab9M8aCMY)
+> #### [作業二- Greedy & Tree](https://youtu.be/pItojJPBois)
 ## 📽️專題連結
 
 
 ## 🫠課程簡報
 > #### [week 1 Introduction](https://docs.google.com/presentation/d/e/2PACX-1vSoZaHMPw2fKtXOAC3GyKJgpRlZn2a_adjEIOmmTTKR5vBXZlzoZ0i2y8c2yZLYgRImehD1HIHJLaV6/pub?start=false&loop=false&delayms=3000&slide=id.p)
 > #### [week 2 Leetcode 75](https://docs.google.com/presentation/d/e/2PACX-1vT7p0-PcgEIj2Ac7NuCdqHGNXNnwadoAy7CWhhNTJWm5OzUdQEekxSEb9_ZTpo2ubNgfETSUYX_tuC5/pub?start=false&loop=false&delayms=3000&slide=id.p)
+> #### [week 3 ChatGPT API & HW1](https://docs.google.com/presentation/d/e/2PACX-1vSqNXr_J_rQ6m03T73WeCg7IVhrr2pYyNg_6CJU32lTYSi1_8I5AjCX3z_Gdx5VkiCwxCKZnEZ6jhEy/pub?start=false&loop=false&delayms=3000&slide=id.p)
