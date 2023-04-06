@@ -24,6 +24,7 @@
 ## 🙌作業連結
 > #### [作業一- Prefix Sum & String](https://youtu.be/Trab9M8aCMY)
 > #### [作業二- Greedy & Tree](https://youtu.be/pItojJPBois)
+> #### [作業三- Binary Search Tree](https://youtu.be/3pftOYXV-Xc)
 ## 📽️專題連結
 
 
