@@ -1,4 +1,4 @@
-# Data Strucutre 資料結構
+# Data Structre 資料結構
 ***
  #### 授課教師： [蔡芸琤 Tsai, Yun-Cheng 老師](https://github.com/pecu?tab=repositories)
  #### 姓名：張乃云
