@@ -38,3 +38,7 @@
 > #### [week 8 Binary Search](https://docs.google.com/presentation/d/e/2PACX-1vQOji8H1afdQezbT6yv4Rv6A8M4ecAOfpufImQubaWThP7n_HudGi-slkeaMyJ4vvhPAyJnXkJB1Ry_/pub?start=false&loop=false&delayms=3000&slide=id.p)
 > #### [week 9 Binary Search Tree](https://docs.google.com/presentation/d/e/2PACX-1vQVu4ZiJF9x3o18xjCDRkvqIXsE2hA1XsE0DY5NnOqysr5edVx8o5elzHctaZ2VriHCCLmjTBMMNi87/pub?start=false&loop=false&delayms=3000&slide=id.p)
 > #### [week 10 Graph & DFS/BFS](https://docs.google.com/presentation/d/e/2PACX-1vRlcrJz58mNIV8jFGTxhR19BukTk6FEfUUeiei6wbRnNOpZk8VfFUmbAp2uHMN-j4HUPSf6pAuCrYgB/pub?start=false&loop=false&delayms=3000&slide=id.p)
+
+## 🔈期末分享影片
+![image](https://user-images.githubusercontent.com/112916890/235387473-9c63ab8d-9fc9-4190-80ed-f1a65be7530b.png)
+
